@@ -1,7 +1,7 @@
 # Assessing QBC Active Learning Regression for FTIR Spectroscopy in Wood Dating Applications
 
 This repository contains the Code and Software versions for my Master's thesis "Assessing QBC Active Learning Regression for FTIR Spectroscopy in Wood Dating Applications". \
-The main focus on this thesis is the application of the active learning approaches Query-by-Committee (QBC) and IDEAL to FTIR spectral data gathered from several wooden samples originating from Austria, Finland, Norway and Poland. \
+The main focus on this thesis is the application of the active learning approaches Query-by-Committee (QBC) and IDEAL to FTIR spectral data gathered from several wooden samples originating from Austria, Finland, Norway and Poland. 
 
 ## Setup of the environment
 
